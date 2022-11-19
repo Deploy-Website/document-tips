@@ -1,4 +1,4 @@
-import{f as o}from"./QBtn.2337b19c.js";import{_ as s,N as n,C as r,D as a,J as e,L as t,G as c}from"./index.890965bf.js";const l=n({name:"ErrorNotFound"}),d={class:"fullscreen bg-blue text-white text-center q-pa-md flex flex-center"},i=e("div",{style:{"font-size":"30vh"}},`
+import{f as o}from"./QBtn.7dbe22b5.js";import{_ as s,N as n,C as r,D as a,J as e,L as t,G as c}from"./index.038e86df.js";const l=n({name:"ErrorNotFound"}),d={class:"fullscreen bg-blue text-white text-center q-pa-md flex flex-center"},i=e("div",{style:{"font-size":"30vh"}},`
         404
       `,-1),_=e("div",{class:"text-h2",style:{opacity:".4"}},`
         Oops. Nothing here...
