@@ -1,0 +1,32 @@
+// app global css in SCSS form
+@font-face {
+  font-family: "Quicksand";
+  src: url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
+}
+
+body {
+  font-family: 'Quicksand';
+  font-size: 1rem !important;
+}
+
+.menu-dropdown ul li {
+  color: $text-color-gray;
+}
+
+.font-size-16 table, tr, td, th {
+  font-size: 1.2rem !important;
+}
+
+table a {
+  color: rgb(34, 87, 194) !important;
+}
+
+.ssh-pre[data-label] {
+  margin-top: 1rem !important;
+}
+
+.ssh-pre__content {
+  margin-left: -6rem !important;
+  margin-top: -1rem !important;
+  margin-bottom: -1rem !important;
+}
