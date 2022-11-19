@@ -1,0 +1,1 @@
+var u=(r,e)=>()=>(e||r((e={exports:{}}).exports,e),e.exports);var l=u((o,a)=>{a.exports={chainWebpack:r=>{r.module.rule("vue").use("vue-loader").loader("vue-loader").tap(e=>(e.compilerOptions.whitespace="preserve",e))}}});export default l();
